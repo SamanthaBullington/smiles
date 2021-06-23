@@ -1,0 +1,21 @@
+
+
+body {
+  justify-content: center;
+}
+
+.bg-set {
+  color: white;
+  font-size: 30pt;
+  background-color: purple;
+
+}
+
+.line-break {
+  background-color: hotpink;
+  height: 1px;
+  width: 300px;
+  margin:5px;
+
+
+}
