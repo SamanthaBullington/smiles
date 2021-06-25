@@ -14,8 +14,6 @@ body {
 .line-break {
   background-color: hotpink;
   height: 1px;
-  width: 300px;
-  margin:5px;
-
-
+  width: 100%;
+  margin: 5px;
 }
